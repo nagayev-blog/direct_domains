@@ -1,7 +1,6 @@
 # Additional addresses
 
 # google search
-192.178.0.0/15
 142.250.0.0/15
 
 # 2gis
